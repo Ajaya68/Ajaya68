@@ -12,8 +12,8 @@
 
 I'm a **student & fresher** passionate about **web development** and learning how modern applications are built from scratch.
 
-- 🌱 Currently learning **Full Stack Development (MERN Stack)**
-- 💻 Comfortable with **HTML, CSS, JavaScript, React (Basics)**
+- 🌱 Currently learning **Full Stack Development **
+- 💻 Comfortable with **HTML, CSS, Bootstrap, JavaScript, React (Basics)**
 <!-- 🧠 Exploring **backend concepts with Node.js & Express**-->
 - 🤝 Open to **internships, beginner-friendly projects & collaborations**
 - 📚 I learn best by **building real projects**
@@ -81,7 +81,7 @@ I'm a **student & fresher** passionate about **web development** and learning ho
 
 ## 📌 Projects (Beginner → Growing)
 
-- 🔹 **Calculator Project**  
+<!-- 🔹 **Calculator Project**  
   👉 https://github.com/Ajaya68/CodeAlpha_Calculator </br>
   👉 Live - https://ajaya68.github.io/CodeAlpha_Calculator/ </br>
   *HTML, CSS, JavaScript*
@@ -89,7 +89,7 @@ I'm a **student & fresher** passionate about **web development** and learning ho
 - 🔹 **Image-gallary Project**  
   👉 https://github.com/Ajaya68/CodeAlpha_ImageGallery  </br>
   👉 Live - https://ajaya68.github.io/CodeAlpha_ImageGallery/  </br>
-  *HTML, CSS, JavaScript*
+  *HTML, CSS, JavaScript*-->
 
 - 🔹 **Diabetes Prediction Project**  
   👉 https://github.com/Ajaya68/diabetes-prediction  
