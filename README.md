@@ -88,7 +88,7 @@ I'm a **student & fresher** passionate about **web development** and learning ho
 
 - 🔹 **Image-gallary Project**  
   👉 https://github.com/Ajaya68/CodeAlpha_ImageGallery  </br>
-  👉 Live - https://github.com/Ajaya68/CodeAlpha_ImageGallery  </br>
+  👉 Live - https://github.com/Ajaya68/CodeAlpha_ImageGallery/  </br>
   *HTML, CSS, JavaScript*
 
 - 🔹 **Diabetes Prediction Project**  
