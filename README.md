@@ -14,7 +14,7 @@ I'm a **student & fresher** passionate about **web development** and learning ho
 
 - 🌱 Currently learning **Full Stack Development (MERN Stack)**
 - 💻 Comfortable with **HTML, CSS, JavaScript, React (Basics)**
-- 🧠 Exploring **backend concepts with Node.js & Express**
+<!-- 🧠 Exploring **backend concepts with Node.js & Express**-->
 - 🤝 Open to **internships, beginner-friendly projects & collaborations**
 - 📚 I learn best by **building real projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, Git & GitHub**
