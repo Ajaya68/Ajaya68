@@ -12,7 +12,7 @@
 
 I'm a **student & fresher** passionate about **web development** and learning how modern applications are built from scratch.
 
-- 🌱 Currently learning **Full Stack Development **
+- 🌱 Currently learning Full Stack Development
 - 💻 Comfortable with **HTML, CSS, Bootstrap, JavaScript, React (Basics)**
 <!-- 🧠 Exploring **backend concepts with Node.js & Express**-->
 - 🤝 Open to **internships, beginner-friendly projects & collaborations**
