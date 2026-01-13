@@ -28,7 +28,7 @@ I'm a **student & fresher** passionate about **web development** and learning ho
 <a href="https://github.com/Ajaya68" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+<a href="https://linkedin.com/in/ajaya-mahanty" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://www.instagram.com/ajaya.vibes/" target="_blank">
