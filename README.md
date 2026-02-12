@@ -92,7 +92,7 @@ I'm a **student & fresher** passionate about **web development** and learning ho
   *HTML, CSS, JavaScript*-->
 
 - 🔹 **Diabetes Prediction Project**  
-  👉 https://github.com/Ajaya68/diabetes-prediction  
+  👉 https://diabetes-prediction-rc9us66qzdoqhqt7gerdfx.streamlit.app/  
   *Python, pandas, numpy, matplotlib, seaborn, scikit-learn*
 
 ---
