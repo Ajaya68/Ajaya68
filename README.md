@@ -103,5 +103,5 @@ Currently focused on building real-world full stack Java applications.
 </p>
 
 ---
-⭐ Always building. Always improving.
+⭐ Always building. Always improving. </br>
 ⭐ Consistent learning. Real projects. Backend-focused growth.
