@@ -3,17 +3,20 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Python Developer | Django | REST APIs | React
+  Full Stack Java Developer | Spring Boot | Microservices | ReactJS
 </h3>
 
 ---
 
 ## 🚀 Professional Summary
 
-Full Stack Developer focused on backend development using **Python & Django**.  
-I build structured, scalable web applications and REST APIs with clean architecture and proper project organization.
+Aspiring Full Stack Java Developer with strong foundations in Core Java, Advanced Java, Spring Boot, and Microservices architecture.
 
-Currently seeking internship / entry-level opportunities in Full Stack Python Development.
+I build scalable backend applications and REST APIs, integrate Oracle databases, and develop responsive user interfaces using ReactJS.
+
+I also have hands-on experience in Python-based machine learning projects, demonstrating strong analytical and problem-solving skills.
+
+Currently focused on building real-world full stack Java applications.
 
 ---
 
@@ -21,37 +24,42 @@ Currently seeking internship / entry-level opportunities in Full Stack Python De
 
 ### 👨‍💻 Backend
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
 </p>
 
 ### 🎨 Frontend
 <p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 </p>
 
 ### 🗄 Database
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 </p>
 
-### ⚙ Tools
+### ⚙ DevOps & Tools
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
 </p>
 
 ---
 
-## 💼 Featured Project
+## 💼 Featured Projects
 
 ### 🔹 Diabetes Prediction Web App  
 🔗 Live: https://diabetes-prediction-rc9us66qzdoqhqt7gerdfx.streamlit.app/  
@@ -59,28 +67,30 @@ Currently seeking internship / entry-level opportunities in Full Stack Python De
 **Tech:** Python, pandas, NumPy, scikit-learn, Streamlit  
 
 - Built machine learning classification model  
-- Data preprocessing & feature scaling  
-- Model evaluation & visualization  
+- Implemented data preprocessing & feature scaling  
+- Evaluated model performance  
 - Deployed as interactive web application  
 
 ---
 
-## 📊 GitHub Stats
+## 🚧 Ongoing Java Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ajaya68&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaya68&layout=compact&theme=tokyonight" height="165"/>
-</p>
+🔹 Employee Management System (Spring Boot + Oracle)  
+🔹 E-Commerce Backend (Microservices Architecture)  
+🔹 REST API with JWT Authentication  
+🔹 ReactJS Admin Dashboard  
+🔹 Dockerized Spring Boot Application  
 
 ---
 
 ## 🎯 Development Focus
 
-- Backend architecture with Django
+- Spring Boot backend architecture
+- Microservices design
 - REST API development
 - Database modeling & optimization
-- Clean and maintainable project structure
-- Continuous skill improvement through project-based learning
+- CI/CD basics with Docker & Jenkins
+- Writing clean, maintainable, testable code
 
 ---
 
@@ -93,5 +103,5 @@ Currently seeking internship / entry-level opportunities in Full Stack Python De
 </p>
 
 ---
-
 ⭐ Always building. Always improving.
+⭐ Consistent learning. Real projects. Backend-focused growth.
