@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Java Developer | Spring Boot | Microservices | ReactJS
+  🚀 Full Stack Java Developer | Spring Boot | Microservices | Oracle SQL | PL/SQL | ReactJS
 </h3>
 
 ---
