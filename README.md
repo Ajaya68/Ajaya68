@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Ajaya%20Mahanty&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React.js&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://linkedin.com/in/ajaya-mahanty">
+<a href="https://www.linkedin.com/in/ajaya-mahanty-860758364/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&height=50&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;React.js+%7C+Oracle+SQL+%7C+PL%2FSQL;Building+Clean+and+Scalable+Applications+%E2%98%95" alt="Typing SVG" />
 </a>
 
@@ -131,15 +131,15 @@
 
 <div align="center">
 
-<a href="https://github.com/Ajaya68">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajaya68&repo=e-commerce-platform&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ajaya68/LUMINA-ECOMMERCE-WEBSITE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajaya68&repo=LUMINA-ECOMMERCE-WEBSITE&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Ajaya68">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajaya68&repo=employee-management-system&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ajaya68/EmployeeManagementSystem">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajaya68&repo=EmployeeManagementSystem&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Ajaya68">
+<a href="https://github.com/Ajaya68/employee-payroll-system">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajaya68&repo=employee-payroll-system&theme=tokyonight&hide_border=true" />
 </a>
 
@@ -190,7 +190,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ajaya-mahanty">
+<a href="https://www.linkedin.com/in/ajaya-mahanty-860758364/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
